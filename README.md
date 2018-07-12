@@ -22,10 +22,13 @@ traitsui 6.0.0
 VTK  7.1.1
 
 in main.py line 35 is the path of the input image
+
 line 66 is the output h5 file name
+
 after line 87 is the part of visualization
 
 
 
 from the paper<<Im2Avatar: Colorful 3D Reconstruction from a Single Image>>
+
 thanks to the authers Sun, Yongbin and Liu, Ziwei and Wang, Yue and Sarma, Sanjay E
